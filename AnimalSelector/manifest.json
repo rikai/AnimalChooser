@@ -1,10 +1,10 @@
 ﻿{
-   "Name": "Animal Chooser",
+   "Name": "Animal Selector",
    "Author": "rikai",
-   "Version": "1.4.1",
+   "Version": "1.5.0",
    "Description": "Allows manual selection of animal colour for cows and chickens",
-   "UniqueID": "rikai.AnimalChooser",
-   "EntryDll": "AnimalChooser.dll",
+   "UniqueID": "rikai.AnimalSelector",
+   "EntryDll": "AnimalSelector.dll",
    "MinimumApiVersion": "3.0",
    "UpdateKeys": [ "" ]
 }

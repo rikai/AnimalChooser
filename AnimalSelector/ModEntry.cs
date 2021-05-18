@@ -9,7 +9,7 @@ using StardewValley.Buildings;
 using StardewValley.Menus;
 using StardewValley.Locations;
 
-namespace AnimalChooser
+namespace AnimalSelector
 {
     public class ModEntry : Mod {
 

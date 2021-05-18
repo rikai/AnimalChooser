@@ -7,8 +7,8 @@
     <ProjectGuid>{D6E01090-1A9E-4500-B784-A7840706E446}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>AnimalChooser</RootNamespace>
-    <AssemblyName>AnimalChooser</AssemblyName>
+    <RootNamespace>AnimalSelector</RootNamespace>
+    <AssemblyName>AnimalSelector</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
@@ -69,7 +69,7 @@
     <Compile Include="ModEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-    <ItemGroup>
+  <ItemGroup>
     <None Include="manifest.json" />
     <None Include="packages.config" />
   </ItemGroup>
@@ -83,6 +83,7 @@
     <Content Include="Assets\Brown Cow.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\Dinosaur.png" />
     <Content Include="Assets\Duck.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
@@ -95,6 +96,7 @@
     <Content Include="Assets\heartFull.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\Ostrich.png" />
     <Content Include="Assets\Pig.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
